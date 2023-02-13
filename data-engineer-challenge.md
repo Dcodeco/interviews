@@ -1,6 +1,12 @@
 # Challenge: Modeling a Graph Network
 
-## Objective: To design and implement a graph network using an object-oriented programming language of your choice (e.g. Java, Python, C++, etc.).
+## Introduction
+We recognize that your time is valuable, and we appreciate you investing that time with us. With that in mind, we've designed this exercise to be done in your spare time and it is untimed. Work on the project when you can and return it to us when you are finished.
+
+Package your code as a tarball, zip, or a gitbundle and send it to us when you have finished.
+
+## Objective
+To design and implement a graph network using an object-oriented programming language of your choice (e.g. Java, Python, C++, etc.).
 
 ## Problem Statement:
 
