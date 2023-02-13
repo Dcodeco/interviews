@@ -3,6 +3,8 @@
 ## Introduction
 We recognize that your time is valuable, and we appreciate you investing that time with us. With that in mind, we've designed this exercise to be done in your spare time and it is untimed. Work on the project when you can and return it to us when you are finished.
 
+You don't need to create a massive, complex piece of software to fulfill this challenge. We're really just looking to see how you think about - and design solutions to - data problems. 
+
 Package your code as a tarball, zip, or a gitbundle and send it to us when you have finished.
 
 ## Objective
