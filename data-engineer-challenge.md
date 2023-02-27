@@ -5,7 +5,9 @@ We recognize that your time is valuable, and we appreciate you investing that ti
 
 You don't need to create a massive, complex piece of software to fulfill this challenge. We're really just looking to see how you think about - and design solutions to - data problems. 
 
-Package your code as a tarball, zip, or a gitbundle and send it to us when you have finished.
+Email any questions to joshua.gooden@dcode.co
+
+Package your completed code as a tarball, zip, or a gitbundle and email it to joshua.gooden@dcode.co and kevin.lewis@dcode.co.
 
 ## Objective
 To design and implement a graph network using an object-oriented programming language of your choice (e.g. Java, Python, C++, etc.).
